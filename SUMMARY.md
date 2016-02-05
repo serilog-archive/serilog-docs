@@ -2,4 +2,5 @@
 
 * Introduction
    * Getting Started
+* Available Sinks
 
